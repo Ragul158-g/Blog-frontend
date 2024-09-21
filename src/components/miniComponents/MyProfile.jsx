@@ -12,16 +12,16 @@ const MyProfile = () => {
       </div>
       <div className="user-detail">
         <p>
-          Name: <span>{user.name}</span>
+          Name: <span>Ragul</span>
         </p>
         <p>
-          Email: <span>{user.email}</span>
+          Email: <span>ragulpathmesh@gmail.com</span>
         </p>
         <p>
-          Phone: <span>{user.phone}</span>
+          Phone: <span>9994298370</span>
         </p>
         <p>
-          Role: <span>{user.role}</span>
+          Role: <span>Author</span>
         </p>
       </div>
     </section>
